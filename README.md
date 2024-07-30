@@ -2,6 +2,8 @@
 
 This project is a Project Management API built with FastAPI, SQLAlchemy, and SQLite. The API allows users to manage projects and their associated tickets.
 
+This is a slight change.
+
 ## Folder Structure
 ```bash
 app/
